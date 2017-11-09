@@ -16,8 +16,10 @@ and click the "Install App" button at the top
  ![Bark for G Suite in the Marketplace](https://s3.amazonaws.com/bark-assets/gsuite/step_1-marketplace.png)
 
 2. Enter your credentials for G Suite
- ![sign in](https://s3.amazonaws.com/bark-assets/gsuite/step_2-sign_in.png)
+
+![sign in](https://s3.amazonaws.com/bark-assets/gsuite/step_2-sign_in.png)
 
 3. Agree to Google's terms and authorize access to the domain's Gmail, YouTube,
    and Google Drive.
- ![authorize](https://s3.amazonaws.com/bark-assets/gsuite/step_3-authorize.png)
+
+![authorize](https://s3.amazonaws.com/bark-assets/gsuite/step_3-authorize.png)
