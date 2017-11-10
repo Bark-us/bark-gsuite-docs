@@ -24,7 +24,7 @@ and click the "Install App" button at the top
 
 ![authorize](https://s3.amazonaws.com/bark-assets/gsuite/step_3-authorize.png)
 
-4. Uncheck the switch to notify users and click the "Next" button
+4. Uncheck the option to notify users and click the "Next" button
 
 ![notify](https://s3.amazonaws.com/bark-assets/gsuite/step_4-notify_users.png)
 
@@ -40,11 +40,11 @@ and click the "Install App" button at the top
 
 ![authorize](https://s3.amazonaws.com/bark-assets/gsuite/step_7-authorize.png)
 
-8. Click the "Advanced" link towards the bottom and click the "Go to bark.us
+8. Click the "Advanced" link in the bottom left to expand the options and click the "Go to bark.us
    (unsafe)" link.
 
    _Note: This is just due to the fact that Google hasn't manually reviewed the
-   integration yet.
+   integration yet._
 
 ![continue](https://s3.amazonaws.com/bark-assets/gsuite/step_8-continue.png)
 
@@ -53,11 +53,12 @@ and click the "Install App" button at the top
 
 ![groups](https://s3.amazonaws.com/bark-assets/gsuite/step_9-authorize_groups.png)
 
-10. Check the groups you would like Bark to monitor and click the "Done" button
+10. Check the groups Bark should monitor and click the "Done" button
 
 ![groups](https://s3.amazonaws.com/bark-assets/gsuite/step_10-groups.png)
 
-11. You'll be taken to the dashboard where you'll find issues in the future
+11. You'll be taken to the dashboard where you'll find potential issues going
+    forward
 
 ![dashboard](https://s3.amazonaws.com/bark-assets/gsuite/step_11-dashboard.png)
 
