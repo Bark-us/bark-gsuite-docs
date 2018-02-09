@@ -48,14 +48,20 @@ and click the "Install App" button at the top
 
 ![groups](https://s3.amazonaws.com/bark-assets/gsuite/step_9-authorize_groups.png)
 
-9. Check the groups Bark should monitor and click the "Done" button
+9. Check the Organization Units Bark should monitor and click the "Done" button
 
-![groups](https://s3.amazonaws.com/bark-assets/gsuite/step_10-groups.png)
+![groups](https://s3.amazonaws.com/bark-assets/gsuite/ous.png)
 
 10. You'll be taken to the dashboard where you'll find potential issues going
     forward
 
 ![dashboard](https://s3.amazonaws.com/bark-assets/gsuite/step_11-dashboard.png)
+
+11. If you select multiple Organization Units, please make sure you follow the
+    steps in the video below to enable the appropriate permissions for all of
+    the OUs you'd like to monitor:
+
+![uos](https://s3.amazonaws.com/bark-assets/gsuite/gsuite-permissions-video.png)
 
 
 Log in after setup
