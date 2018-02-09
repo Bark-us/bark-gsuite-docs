@@ -61,7 +61,7 @@ and click the "Install App" button at the top
     steps in the video below to enable the appropriate permissions for all of
     the OUs you'd like to monitor:
 
-![uos](https://s3.amazonaws.com/bark-assets/gsuite/gsuite-permissions-video.png)
+[![uos](https://s3.amazonaws.com/bark-assets/gsuite/gsuite-permissions-video.png)](https://www.youtube.com/watch?v=AUvY3IoYzrY)
 
 
 Log in after setup
